@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EndVampireThunderFlash</id>
-    <title>末影雷闪的博客</title>
-    <updated>2020-06-30T05:14:39.885Z</updated>
+    <title>末影雷闪</title>
+    <updated>2020-06-30T05:16:54.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EndVampireThunderFlash"/>
     <link rel="self" href="https://EndVampireThunderFlash/atom.xml"/>
     <subtitle>Ender</subtitle>
     <logo>https://EndVampireThunderFlash/images/avatar.png</logo>
     <icon>https://EndVampireThunderFlash/favicon.ico</icon>
-    <rights>All rights reserved 2020, 末影雷闪的博客</rights>
+    <rights>All rights reserved 2020, 末影雷闪</rights>
 </feed>
