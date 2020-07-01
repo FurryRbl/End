@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://endvampirethunderflash.github.io/End/</id>
     <title>末影雷闪</title>
-    <updated>2020-06-30T12:51:25.402Z</updated>
+    <updated>2020-07-01T12:21:13.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://endvampirethunderflash.github.io/End/"/>
     <link rel="self" href="https://endvampirethunderflash.github.io/End/atom.xml"/>
     <logo>https://endvampirethunderflash.github.io/End/images/avatar.png</logo>
     <icon>https://endvampirethunderflash.github.io/End/favicon.ico</icon>
     <rights>All rights reserved 2020, 末影雷闪</rights>
+    <entry>
+        <title type="html"><![CDATA[战争之歌地图下载地址]]></title>
+        <id>https://endvampirethunderflash.github.io/End/post/zhan-zheng-zhi-ge-di-tu-xia-zai-di-zhi/</id>
+        <link href="https://endvampirethunderflash.github.io/End/post/zhan-zheng-zhi-ge-di-tu-xia-zai-di-zhi/">
+        </link>
+        <updated>2020-07-01T11:44:08.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[minecraft blender教程]]></title>
         <id>https://endvampirethunderflash.github.io/End/post/blender-jiao-cheng/</id>
